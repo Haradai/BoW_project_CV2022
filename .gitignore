@@ -1,0 +1,6 @@
+VOCdevkit/
+.ipynb_checkpoints/
+__pycache__/
+old/
+words_des.pkl
+.ipynb_checkpoints/
