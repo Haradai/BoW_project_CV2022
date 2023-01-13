@@ -1,0 +1,1 @@
+SCORE:0.5146286571642911 ||| sift_n_feat:10,pca_n_comp:30,nkcent:65 
